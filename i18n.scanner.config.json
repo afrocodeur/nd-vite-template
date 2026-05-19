@@ -1,0 +1,8 @@
+{
+  "locales": "./src/core/lang/locales",
+  "scan": {
+    "dir": "./src",
+    "extensions": ["js"]
+  },
+  "save": "./src/lang/locales-scan"
+}
