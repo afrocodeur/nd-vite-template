@@ -4,5 +4,5 @@
     "dir": "./src",
     "extensions": ["js"]
   },
-  "save": "./src/lang/locales-scan"
+  "save": "./src/core/lang/locales-scan"
 }

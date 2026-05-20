@@ -25,3 +25,6 @@ dist-ssr
 
 # Environment
 .env
+
+# I18n Scan
+src/core/lang/locales-scan
