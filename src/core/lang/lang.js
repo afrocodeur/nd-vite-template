@@ -4,11 +4,11 @@ import en from './locales/en.json';
 const lang = {
     default: 'en',
     en: {
-        translation: en
+        translation: en,
     },
     fr: {
-        translation: fr
-    }
+        translation: fr,
+    },
 };
 
 export default lang;

@@ -1,9 +1,11 @@
 {
-  "Welcome to Native Document": "Welcome to Native Document",
+  "Welcome to": "Welcome to",
+  "Edit": "Edit",
+  "to get started.": "to get started.",
+  "count is reactive — powered by": "count is reactive — powered by",
+  "Page not found": "Page not found",
+  "The page you're looking for doesn't exist.": "The page you're looking for doesn't exist.",
+  "Back to home": "Back to home",
   "French": "French",
-  "English": "English",
-  "Increment": "Increment",
-  "Decrement": "Decrement",
-  "ClickCount": "You have clicked {{ count }} times",
-  "Minimum value is {{ min }}": "Minimum value is {{ min }}"
+  "English": "English"
 }
