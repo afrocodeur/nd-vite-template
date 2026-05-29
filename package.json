@@ -15,11 +15,12 @@
   "license": "ISC",
   "description": "Official Vite starter template for NativeDocument",
   "dependencies": {
-    "native-document": "^1.0.161"
+
   },
   "devDependencies": {
     "@eslint/js": "^9.0.0",
     "eslint": "^9.33.0",
+    "sass-embedded": "^1.100.0",
     "vite": "^7.1.9"
   }
 }
