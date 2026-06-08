@@ -20,7 +20,7 @@ import {
     ColorField, FileField, ImageField, DateField, TimeField,
     FileNativeMode, FileDropzoneMode, FileUploadButtonMode, FileWallMode, FileAvatarMode,
     Slider, RangeField, FieldCollection, FormControl,
-    SimpleTable, DataTable, Switch,
+    SimpleTable, DataTable, Switch, Card, List, ListItem, Spacer, ListGroup, Icon
 } from 'native-document/components';
 
 import {
@@ -41,8 +41,8 @@ import {
     ColorFieldRender, FileFieldRender, FileNativeModeRender, FileDropzoneModeRender,
     FileUploadButtonModeRender, FileWallModeRender, FileAvatarModeRender,
     DateFieldRender, TimeFieldRender, SliderFieldRender, RangeFieldRender,
-    FieldCollectionRender, FormControlRender,
-    SimpleTableRender, DataTableRender, SwitchRender,
+    FieldCollectionRender, FormControlRender, CardRender, ListRender, SpacerRender, ListGroupRender, ListItemRender,
+    SimpleTableRender, DataTableRender, SwitchRender, TablerIconRender, MaterialIconRender
 } from 'native-document/ui';
 
 
@@ -54,6 +54,7 @@ import {
 // AbsoluteStack.use(AbsoluteStackRender);
 // FixedStack.use(FixedStackRender);
 // RelativeStack.use(RelativeStackRender);
+// Spacer.use(SpacerRender);
 
 
 // ------------------------------------------
@@ -177,3 +178,22 @@ import {
 // Misc
 // ------------------------------------------
 // Switch.use(SwitchRender);
+
+
+// ------------------------------------------
+// Card
+// ------------------------------------------
+// Card.use(CardRender);
+
+
+// ------------------------------------------
+// List
+// ------------------------------------------
+// List.use(ListRender);
+// ListItem.use(ListItemRender);
+// ListGroup.use(ListGroupRender);
+
+// ------------------------------------------
+// Icon
+// ------------------------------------------
+// Icon.use(MaterialIconRender);
